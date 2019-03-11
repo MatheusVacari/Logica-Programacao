@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\obj\Debug\netcoreapp2.2\Exe13.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\obj\Debug\netcoreapp2.2\Exe13.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\obj\Debug\netcoreapp2.2\Exe13.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\obj\Debug\netcoreapp2.2\Exe13.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\bin\Debug\netcoreapp2.2\Exe13.deps.json
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\bin\Debug\netcoreapp2.2\Exe13.runtimeconfig.json
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\bin\Debug\netcoreapp2.2\Exe13.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\bin\Debug\netcoreapp2.2\Exe13.dll
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\bin\Debug\netcoreapp2.2\Exe13.pdb
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\obj\Debug\netcoreapp2.2\Exe13.dll
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe13\obj\Debug\netcoreapp2.2\Exe13.pdb

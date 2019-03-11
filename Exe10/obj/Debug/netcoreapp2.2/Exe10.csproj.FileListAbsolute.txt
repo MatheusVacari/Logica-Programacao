@@ -1,0 +1,4 @@
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe10\obj\Debug\netcoreapp2.2\Exe10.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe10\obj\Debug\netcoreapp2.2\Exe10.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe10\obj\Debug\netcoreapp2.2\Exe10.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe10\obj\Debug\netcoreapp2.2\Exe10.AssemblyInfo.cs
